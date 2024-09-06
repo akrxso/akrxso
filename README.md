@@ -1,8 +1,8 @@
-  <h1>👊🏻 김서현</h1>
+  <h1>🐰 김서현</h1>
   
   <p><strong>👀 <span style="color: #3498db;">Together</span> 👀</strong></p>
   
-  <h2>팀 경험</h2>
+  <h2>👊🏻 협업 경험</h2>
   <p><a href="https://github.com/akrxso/sublindway" style="color: #e74c3c; text-decoration: none;">캡스톤</a></p>
   
   <h2>🌻 느낀점</h2>
