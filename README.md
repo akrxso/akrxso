@@ -1,24 +1,21 @@
-  <h1>🐰 김서현</h1>
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=🐰%20KIM%20SEOHYUN.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
   
-  <p><strong>👀 <span style="color: #3498db;">Together</span> 👀</strong></p>
+  <h1><p><strong>👀 <span style="color: #3498db;">Together</span> 👀</strong></p></h1>
   
-  <h2>👊🏻 협업 경험</h2>
-  <p><a href="https://github.com/akrxso/sublindway" style="color: #e74c3c; text-decoration: none;">캡스톤</a></p>
+  <h2><a href="https://github.com/akrxso/sublindway" style="color: #e74c3c; text-decoration: none;">👊🏻</a> 협업 경험 </h2>
+  
   
   <h2>🌻 느낀점</h2>
   <p style="font-style: italic; color: #2ecc71;">
-    협업을 통해 얻은 많은 인사이트와 경험들이 정말 소중합니다.
-  </p>
-  <p style="font-style: italic; color: #2ecc71;">
-    함께 해결해 나가는 과정이 가장 큰 배움이었습니다.
+    함께하는 힘이 중요하다.
   </p>
   
-  <h2>💟 아이디어</h2>
+  <h2>💟 구해요</h2>
   <p style="font-style: italic; color: #2ecc71;">
-    개발 실력은 비슷할 수 있지만, 아이디어 싸움이 중요하다고 생각합니다. 
+    아이디어 싸움🔥
   </p>
   <p style="font-style: italic; color: #2ecc71;">
-    창의적이고 혁신적이면서도 생활에 밀접한 프로젝트의 차별화를 가져온다고 믿어요.
+    흔하지 않고 창의적인 아이디어로 개발하실분
   </p>
   
   <h2>⭐️ 개발에서 중요하게 여기는 마인드</h2>
@@ -28,15 +25,17 @@
   </ul>
   
   <h2>🌈 협업 스타일</h2>
-  <h3>팀원들과의 소통에서 가장 중요하게 생각하는 것</h3>
+  <h3>팀원들과의 소통에서 중요하게 생각하는 것</h3>
   <ul>
-    <li>서운해하지 않는 사람 : 자기 의견이 안 된다고 기분 나빠하지 않았으면 좋겠어요.</li>
-    <li>기다릴 줄 아는 사람 : 팀원들을 믿고 기다려주며, 혼자 뽐내지 않고 조용히 자신의 일에 집중하는 사람을 원해요.</li>
-    <li>팀과 나는 한 몸이라고 생각하는 사람 : 팀의 성공이 곧 나의 성공이라 생각합니다.<br> 백엔드가 아니어서 프론트엔드의 오류 해결에 무관심한 사람은 싫어요.<br>풀스택으로 함께 고민하고, 밤을 새더라도 같이 해나가야 한다고 믿어요.</li>
+    <li>서운해하지 않는 사람 : 자기 의견이 안 된다고 기분 나빠하지 않기.</li>
+    <li>기다릴 줄 아는 사람 : 팀원들을 기다려주고, 혼자만 빠르게 가지 않는사람.</li>
+    <li>팀과 나는 한 몸이라고 생각하는 사람 : 팀 = 나<br> 오류 해결에 무관심한 사람 ❌ <br> 풀스택으로 함께 고민하고, 팀원 모두가 같이 성장하기.</li>
   </ul>
   
   <h2>🔑 자격증</h2>
   <p>SQLD</p>
+  정처기 같이 따실분...
+  토익 같이 따실분...
   
   <h2>🔍 미래 목표</h2>
   <p>제주도에서 살기</p>
