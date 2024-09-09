@@ -1,6 +1,6 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=🐰%20KIM%20SEOHYUN.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-<img width="293" alt="image" src="https://github.com/user-attachments/assets/4eaa8a1d-1479-4516-b961-c29b4e0bac3b"><img width="293" alt="스크린샷 2024-09-09 오전 9 29 06" src="https://github.com/user-attachments/assets/abe04973-ead3-48f4-abb1-7fca19de0fee"><img width="293" alt="image" src="https://github.com/user-attachments/assets/066a4a77-3724-4cc2-8539-1c3d090cfe00">
+<img width="260" alt="image" src="https://github.com/user-attachments/assets/4eaa8a1d-1479-4516-b961-c29b4e0bac3b"><img width="260" alt="스크린샷 2024-09-09 오전 9 29 06" src="https://github.com/user-attachments/assets/abe04973-ead3-48f4-abb1-7fca19de0fee"><img width="260" alt="image" src="https://github.com/user-attachments/assets/066a4a77-3724-4cc2-8539-1c3d090cfe00">
   
   <h2><a href="https://github.com/akrxso/sublindway" style="color: #e74c3c; text-decoration: none;">👊🏻</a> 협업 경험 </h2>
   
